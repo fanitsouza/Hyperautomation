@@ -34,5 +34,4 @@ O processo segue as seguintes etapas rigorosamente:
 ### Configuração do Ambiente
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
-   cd <NOME_DA_PASTA_DO_PROJETO>
+   git clone <https://github.com/fanitsouza/Hyperautomation/tree/main/Avaliacao_2>
